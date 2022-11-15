@@ -20,10 +20,10 @@
 
 footer {
     padding: 100px 0;
-    font-size: 54px;
+    font-size: 18px;
     font-weight: 700;
     color: rgb(242, 242, 230);
     font-family: sans-serif;
-    background-color: rgb(100, 140, 100);
+    background-color: red;
     text-align: center;
 }
